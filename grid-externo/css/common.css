@@ -1,0 +1,22 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+*{
+	box-sizing: border-box;
+}
+.titulo{
+	font-size: 2em;
+	padding: 1%;
+}
+.nav{
+	padding: 2% 1%;
+	font-size: 1.1em;
+}
+a {
+	padding: 6%;
+}
+.fblue{
+	background-color: #192951;
+	color: #778098;
+}
+.foo{
+padding: 2%;
+}
